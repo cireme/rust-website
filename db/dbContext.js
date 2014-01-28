@@ -1,0 +1,33 @@
+/**
+* DbContext class
+*/
+(function () {
+
+    var modelsPath = __dirname + '/../app/models/';
+
+    /**
+    * Constructor.
+    */
+    function DbContext() {
+        this.db = require('./dbConnection');
+        this.entities();
+        this.modelBuilder();
+    }
+
+    /**
+     * Attach your model to DbContext like user to perform database sync.
+     * 
+     */
+    DbContext.prototype.entities = function() {
+        this.user = this.db.import(modelsPath + 'user');
+        this.article = this.db.import(modelsPath + 'article');
+    };
+
+    /**
+    * Manage Database entities associations here.
+    */
+    DbContext.prototype.modelBuilder = function () {
+    };
+
+    module.exports = DbContext;
+})();

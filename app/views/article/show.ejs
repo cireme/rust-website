@@ -1,0 +1,16 @@
+<h2 class="text-info">Details</h2>
+<fieldset>
+    <legend>article</legend>
+
+	
+		<label for="title">title:</label>
+		<p><%- article.title %></p>
+	
+		<label for="text">text:</label>
+		<p><%- article.text %></p>
+	
+
+<%- link_to('edit', '/article/edit/'+article.id, {class : 'btn btn-warning'}) %>
+</fieldset>
+
+<%- link_to('back to list', '/article', {class : 'btn btn-primary'}) %>

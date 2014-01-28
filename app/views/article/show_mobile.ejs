@@ -1,0 +1,27 @@
+﻿<div class="panel panel-default">
+  <div class="panel-heading">article show</div>
+  <div class="panel-body">
+
+       
+            <label for="title">title:</label>
+            <p><%- article.title %></p>
+        
+            <label for="text">text:</label>
+            <p><%- article.text %></p>
+        
+
+  </div>
+  <div class="panel-footer">
+  		<div class="row">
+  			<div class="col-xs-4">
+  				<%- link_to('back to list', '/article', {class : 'btn btn-primary', style : "width:100%;"}) %> 
+  			</div>
+  			 <div class="col-xs-4">
+  				<%- link_to('edit', '/article/edit/'+article.id, {class : 'btn btn-warning', style : "width:100%;"}) %>
+  			</div>
+  			<div class="col-xs-4">
+  				<%- link_to('delete', '/article/delete/'+article.id, {class : 'btn btn-danger', style : "width:100%;"}) %>
+  			</div>
+  		</div>
+  </div>
+</div>

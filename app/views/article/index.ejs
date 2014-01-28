@@ -1,0 +1,35 @@
+<h2 class="muted">Index</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <td>id</td>
+            
+            	<td>title</td>
+        	
+            	<td>text</td>
+        	
+          <td>action</td>
+        </tr>
+    </thead>
+    <tbody>
+
+        <% articles.forEach(function(article){ %>
+            <tr>
+                <td><%- article.id %></td>
+                
+                    <td><%- article.title %></td>
+                
+                    <td><%- article.text %></td>
+                
+                <td>
+                    <%- link_to('show', '/article/show/'+article.id, {class : 'btn btn-info'}) %> |
+                    <%- link_to('edit', '/article/edit/'+article.id, {class : 'btn btn-warning'}) %> |
+                    <%- link_to('delete', '/article/delete/'+article.id, {class : 'btn btn-danger'}) %>
+                </td>
+            </tr>
+        <% }); %>
+    </tbody>
+</table>
+
+<%- link_to('new article', '/article/new', {class : 'btn btn-primary'}) %>
