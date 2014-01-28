@@ -1,0 +1,16 @@
+<% if(!req.user){ %>
+
+<li>
+	<a href="/articles">
+		<span class="glyphicon glyphicon-book"></span> Articles
+	</a>
+</li>
+
+<% }else { %>
+
+<li>
+	<a href="/account/articles">
+		<span class="glyphicon glyphicon-book"></span> Articles
+	</a>
+</li>
+<% } %>

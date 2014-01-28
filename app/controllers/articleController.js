@@ -4,6 +4,7 @@
 * Module dependencies.
 */
 var ArticleDAL = require('../dal/articleDAL');
+var MembershipFilters = require('../../middleware/membershipFilters');
 var logger      = require('../../configs/logger.js');
 
 /**
@@ -15,6 +16,7 @@ var logger      = require('../../configs/logger.js');
     * Attributes.
     */
     var articleDAL = new ArticleDAL();
+    var filters = new MembershipFilters();
 
     /**
     * Constructor.
@@ -29,14 +31,16 @@ var logger      = require('../../configs/logger.js');
     * @param {app} - express app.
     */
     ArticleController.prototype.routes = function(app) {
-        app.get('/article', this.index);
+        app.get('/articles', this.index);
+        app.get('/account/articles', filters.authorize, this.indexConnected);
         app.get('/article/show/:id', this.show);
-        app.get('/article/new', this.new);
-        app.post('/article/create', this.create);
-        app.get('/article/edit/:id', this.edit);
-        app.post('/article/edit', this.update);
-        app.get('/article/delete/:id', this.delete);
-        app.post('/article/delete', this.destroy);
+        app.get('/account/article/show/:id', this.showConnected);
+        app.get('/article/new', filters.authorize, this.new);
+        app.post('/article/create', filters.authorize, this.create);
+        app.get('/article/edit/:id', filters.authorize, this.edit);
+        app.post('/article/edit', filters.authorize, this.update);
+        app.get('/article/delete/:id', filters.authorize, this.delete);
+        app.post('/article/delete', filters.authorize, this.destroy);
     };
 
     /**
@@ -54,6 +58,19 @@ var logger      = require('../../configs/logger.js');
 
     /**
     * [httpget]
+    * ArticleController index action.
+    * @param {req} http request.
+    * @param {res} http response.
+    */
+    ArticleController.prototype.indexConnected = function(req, res) {
+        logger.LOG.info("Article Controller - Connected Show All");
+        articleDAL.getAll(function (articles) {
+            res.render('article/indexConnected', { 'articles': articles });
+        });
+    };
+
+    /**
+    * [httpget]
     * ArticleController details action.
     * @param {req} http request.
     * @param {res} http response.
@@ -62,6 +79,19 @@ var logger      = require('../../configs/logger.js');
         var articleId = req.params.id;
         articleDAL.get(articleId, function (article) {
             res.render('article/show', { 'article': article });
+        });
+    };
+
+    /**
+    * [httpget]
+    * ArticleController details action.
+    * @param {req} http request.
+    * @param {res} http response.
+    */
+    ArticleController.prototype.showConnected = function(req, res) {
+        var articleId = req.params.id;
+        articleDAL.get(articleId, function (article) {
+            res.render('article/showConnected', { 'article': article });
         });
     };
 

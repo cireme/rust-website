@@ -37,8 +37,8 @@ var UserDal           = require('../dal/userDal');
         app.get('/account/logout', this.logout);
         app.get('/account/changePassword', filters.authorize, this.changePassword);
         app.post('/account/changePassword', filters.authorize, this.changePassword_post);
-        app.get('/account/register', this.register);
-        app.post('/account/register', this.register_post);
+        app.get('/account/register', filters.authorize, this.register);
+        app.post('/account/register', filters.authorize, this.register_post);
     };
 
     /**
@@ -81,8 +81,8 @@ var UserDal           = require('../dal/userDal');
                         newUser.password = hashedpassword;
 
                         userDal.save(newUser, function (data) {
-                            req.flash('flash', 'you successfully sign in !');
-                            res.redirect('/account/login');
+                            req.flash('flash', 'Account created');
+                            res.redirect('/account/register');
                         });
                     });
                 }

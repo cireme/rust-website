@@ -8,6 +8,9 @@
 	
 		<label for="text">text:</label>
 		<p><%- article.text %></p>
+	
+
+<%- link_to('edit', '/article/edit/'+article.id, {class : 'btn btn-warning'}) %>
 </fieldset>
 
-<%- link_to('back to list', '/articles', {class : 'btn btn-primary'}) %>
+<%- link_to('back to list', '/account/articles', {class : 'btn btn-primary'}) %>
