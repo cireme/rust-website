@@ -1,35 +1,10 @@
-README
-======
 
-What is this project ?
+GhostRusters
+======================
+
+This is the project of the GhostRusters' website
+
+Website
 ----------------------
 
-microscope application.
-
-Requirements
-------------
-
-node.js >= 0.8
-grunt-cli
-npm
-bower
-
-Installation
-------------
-Run the following commands:
-
-	sudo npm install
-	bower install
-	grunt build
-
-Getting started
----------------
-
-Run the following commands:
-
-	microscope server
-
-Documentation
--------------
-
-edit this !
+http://rust.mateuy.org
