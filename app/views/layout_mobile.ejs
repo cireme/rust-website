@@ -1,10 +1,13 @@
 ﻿<!DOCTYPE html>
 <html>
   <head>
-    <title>microscopejs - MVC nodejs framework</title>
+    <title>GhostRusters - The ultimate french rust server</title>
     <meta name="viewport" content="initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,width=device-width,user-scalable=no" />
     <link rel="stylesheet" type="text/css" href="/styles/application.css">
     <link href="/styles/bootstrap.css" rel="stylesheet" media="screen">
+
+    <link rel="shortcut icon" href="/images/ghostrusters.ico" type="image/x-icon">
+	<link rel="icon" href="/images/ghostrusters.ico" type="image/x-icon">
   </head>
   <body>
 
@@ -18,15 +21,15 @@
 						<span class="icon-bar"></span>
 					</button>
 					<a class="navbar-brand" href="/">
-						<img src="/images/logo.png" style="width: 20px; margin:0; padding:0;"/> awesome_project
+						<img id="logo" src="/images/ghostrusters.png">
 					</a>
 				</div>
 
 				<div class="collapse navbar-collapse navbar-ex1-collapse">
-				    <ul class="nav navbar-nav">
-				    	<li><a href="http://microscopejs.com/documentation"><span class="glyphicon glyphicon-book"></span> documentation</a></li>
+				    <ul class="nav navbar-nav menu-top-left">
+				    	<%- partial('shared/_menu') %>
 				    </ul>
-				    <ul class="nav navbar-nav navbar-right">
+				    <ul class="nav navbar-nav navbar-right menu-top-right">
 				      	<%- partial('shared/_login') %>
 				    </ul>
 				</div>
