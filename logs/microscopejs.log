@@ -1,101 +1,207 @@
-[2014-01-28 23:09:20.590] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-28 23:09:22.950] [INFO] Microscopejs - Article Controller - Show All
-[2014-01-28 23:09:48.796] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-28 23:10:03.165] [INFO] Microscopejs - Article Controller - Show All
-[2014-01-28 23:11:05.586] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-28 23:11:14.814] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-28 23:11:18.559] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-28 23:12:11.819] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-28 23:12:25.077] [INFO] Microscopejs - Article Controller - Connected Show All
-[2014-01-28 23:12:26.950] [INFO] Microscopejs - Article Controller - Connected Show All
-[2014-01-28 23:15:51.769] [INFO] Microscopejs - Article Controller - Show All
-[2014-01-28 23:15:55.496] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-28 23:15:57.744] [INFO] Microscopejs - Article Controller - Connected Show All
-[2014-01-28 23:16:52.042] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-28 23:17:23.962] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-28 23:17:27.214] [INFO] Microscopejs - Article Controller - Show All
-[2014-01-28 23:17:32.681] [INFO] Microscopejs - Article Controller - Show All
-[2014-01-28 23:18:22.226] [INFO] Microscopejs - Article Controller - Show All
-[2014-01-28 23:18:25.353] [INFO] Microscopejs - Article Controller - Show All
-[2014-01-28 23:18:26.273] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-28 23:18:27.979] [INFO] Microscopejs - Article Controller - Show All
-[2014-01-28 23:18:35.347] [INFO] Microscopejs - Article Controller - Show All
-[2014-01-28 23:18:40.363] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-28 23:18:47.546] [INFO] Microscopejs - Article Controller - Connected Show All
-[2014-01-28 23:18:53.752] [INFO] Microscopejs - Article Controller - Connected Show All
-[2014-01-28 23:19:00.822] [INFO] Microscopejs - Article Controller - Connected Show All
-[2014-01-28 23:20:51.630] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-28 23:21:19.146] [INFO] Microscopejs - Article Controller - Connected Show All
-[2014-01-28 23:21:44.794] [INFO] Microscopejs - Article Controller - Connected Show All
-[2014-01-28 23:21:46.682] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-28 23:21:48.323] [INFO] Microscopejs - Article Controller - Connected Show All
-[2014-01-29 20:40:30.301] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:40:36.147] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:40:39.653] [INFO] Microscopejs - Article Controller - Show All
-[2014-01-29 20:40:41.249] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:40:46.428] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:40:48.430] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:42:00.240] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:43:03.197] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:43:05.624] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:44:28.545] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:48:42.211] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:48:44.095] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:50:20.348] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:50:21.262] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:51:14.356] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:51:25.796] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:51:55.049] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:14.975] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:16.754] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:17.275] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:17.488] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:17.710] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:17.873] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:17.980] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:18.200] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:18.298] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:18.561] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:18.651] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:37.520] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:53.708] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:55.905] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:56.537] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:56.968] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:57.305] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:57.849] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:58.553] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:58.795] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:59.201] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:59.393] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:59.581] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 20:59:59.841] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 21:00:00.514] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 21:00:00.809] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 21:00:01.185] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 21:00:01.368] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 21:00:01.548] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 21:00:01.825] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 21:01:00.317] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 21:02:09.103] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 21:04:39.003] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 21:07:02.490] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 21:07:19.492] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 21:08:00.966] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 21:08:10.774] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 21:57:14.081] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 21:57:16.111] [INFO] Microscopejs - Index Controller - Show Server Page
-[2014-01-29 21:58:25.456] [INFO] Microscopejs - Index Controller - Show Server Page
-[2014-01-29 21:58:27.976] [INFO] Microscopejs - Index Controller - Show Server Page
-[2014-01-29 21:58:28.769] [INFO] Microscopejs - Index Controller - Show Server Page
-[2014-01-29 21:58:40.322] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 21:58:41.624] [INFO] Microscopejs - Index Controller - Show Server Page
-[2014-01-29 22:00:11.247] [INFO] Microscopejs - Index Controller - Show Server Page
-[2014-01-29 22:00:27.056] [INFO] Microscopejs - Index Controller - Show Server Page
-[2014-01-29 22:00:44.687] [INFO] Microscopejs - Index Controller - Show Server Page
-[2014-01-29 22:01:11.882] [INFO] Microscopejs - Article Controller - Show All
-[2014-01-29 22:01:16.523] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 22:01:19.153] [INFO] Microscopejs - Index Controller - Show Mumble
-[2014-01-29 22:01:25.869] [INFO] Microscopejs - Index Controller - Show Index Page
-[2014-01-29 22:01:44.805] [INFO] Microscopejs - Index Controller - Show Server Page
-[2014-01-29 22:01:51.322] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-01-31 23:53:36.659] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 11:41:46.546] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 11:42:11.895] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 11:43:43.981] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 11:43:47.001] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 11:44:45.706] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 11:44:47.976] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 14:14:43.263] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 14:14:45.308] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 14:14:50.801] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 14:14:56.156] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 14:30:28.425] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 14:30:32.530] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 14:30:44.670] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 14:31:28.461] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 14:31:31.209] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 14:31:33.670] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 14:31:35.350] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 14:31:50.369] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 14:32:40.704] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 14:32:44.031] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 14:32:59.740] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 14:33:01.467] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 14:33:09.046] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 15:25:28.888] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 15:25:32.863] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 15:25:33.677] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 15:25:34.165] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 15:25:34.542] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 16:20:11.368] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 16:20:13.937] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 16:22:59.684] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 16:23:02.458] [INFO] Microscopejs - Index Controller - Show Server Page
+[2014-02-01 16:23:04.504] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 16:23:57.678] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 16:23:59.505] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 16:24:59.051] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 16:25:00.308] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 16:25:04.859] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 16:27:30.505] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 16:27:32.744] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 16:28:08.937] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 16:28:20.372] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 16:28:30.581] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 16:28:32.049] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 16:28:46.084] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 16:28:48.705] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 16:28:52.042] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 16:29:13.488] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 16:29:24.461] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 16:29:25.792] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 16:32:58.844] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 16:34:43.657] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 16:34:47.696] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 16:34:56.002] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 16:35:18.365] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 16:35:20.035] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 16:36:55.517] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 16:37:12.846] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 16:37:34.017] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 16:37:37.049] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 16:37:37.974] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 16:40:14.560] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 16:40:18.969] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 16:40:41.930] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 16:41:44.024] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 16:41:46.750] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 16:41:48.896] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 16:41:54.194] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 16:42:02.476] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 16:43:23.507] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 16:43:24.930] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 16:43:31.983] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 16:43:58.873] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 16:44:09.480] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 16:44:25.087] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 16:46:31.053] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 17:01:49.221] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 17:01:50.422] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 17:08:02.103] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 17:08:45.719] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 17:14:18.827] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 17:14:31.206] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 17:14:32.347] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 17:14:44.492] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 17:14:50.111] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 17:14:50.920] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 17:14:52.220] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 17:15:25.280] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 17:15:31.801] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 17:43:05.524] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 17:43:07.419] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 17:43:07.477] [INFO] Microscopejs - Article : Sat Feb 01 2014 17:14:44 GMT+0100 (Paris, Madrid)
+[2014-02-01 18:45:27.311] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 18:45:27.314] [INFO] Microscopejs - Article : Sat Feb 01 2014 17:14:44 GMT+0100 (Paris, Madrid)
+[2014-02-01 18:50:01.089] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 18:50:01.142] [INFO] Microscopejs - Article : Sat Feb 01 2014 17:14:44 GMT+0100 (Paris, Madrid)
+[2014-02-01 18:51:16.450] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 18:51:16.501] [INFO] Microscopejs - Article : Sat Feb 01 2014 17:14:44 GMT+0100 (Paris, Madrid)
+[2014-02-01 18:53:04.856] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 18:53:23.067] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 18:53:54.367] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 18:53:54.419] [INFO] Microscopejs - Article : Sat Feb 01 2014 17:14:44 GMT+0100 (Paris, Madrid)
+[2014-02-01 18:56:05.119] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 18:56:05.170] [INFO] Microscopejs - Article : Sat Feb 01 2014 17:14:44 GMT+0100 (Paris, Madrid)
+[2014-02-01 18:57:29.639] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 18:57:29.690] [INFO] Microscopejs - Article : Sat Feb 01 2014 17:14:44 GMT+0100 (Paris, Madrid)
+[2014-02-01 18:59:37.773] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 18:59:37.824] [INFO] Microscopejs - Article : Sat Feb 01 2014 17:14:44 GMT+0100 (Paris, Madrid)
+[2014-02-01 19:01:06.301] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 19:01:06.352] [INFO] Microscopejs - Article : Sat Feb 01 2014 17:14:44 GMT+0100 (Paris, Madrid)
+[2014-02-01 19:01:54.509] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 19:01:54.560] [INFO] Microscopejs - Article : Sat Feb 01 2014 17:14:44 GMT+0100 (Paris, Madrid)
+[2014-02-01 19:04:40.010] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 19:04:40.061] [INFO] Microscopejs - Article : Sat Feb 01 2014 17:14:44 GMT+0100 (Paris, Madrid)
+[2014-02-01 19:05:46.140] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 19:05:46.192] [INFO] Microscopejs - Article : Sat Feb 01 2014 17:14:44 GMT+0100 (Paris, Madrid)
+[2014-02-01 19:07:04.322] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 19:07:04.373] [INFO] Microscopejs - Article : Sat Feb 01 2014 17:14:44 GMT+0100 (Paris, Madrid)
+[2014-02-01 19:07:48.537] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 19:07:48.591] [INFO] Microscopejs - Article : Sat Feb 01 2014 17:14:44 GMT+0100 (Paris, Madrid)
+[2014-02-01 19:10:30.633] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 19:10:30.685] [INFO] Microscopejs - Article : Sat Feb 01 2014 17:14:44 GMT+0100 (Paris, Madrid)
+[2014-02-01 19:11:10.263] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 19:11:10.314] [INFO] Microscopejs - Article : Sat Feb 01 2014 17:14:44 GMT+0100 (Paris, Madrid)
+[2014-02-01 19:25:48.155] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 19:25:51.969] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 19:27:43.942] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 19:27:46.661] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 19:33:33.942] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 19:33:43.567] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 19:33:46.020] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 19:35:17.646] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 19:35:47.582] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 19:36:32.677] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 19:36:58.740] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 19:38:01.909] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 20:01:45.929] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 20:03:00.816] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 20:06:14.264] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 20:06:26.670] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 20:06:28.830] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 20:07:56.263] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 20:09:04.224] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 20:11:43.694] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 20:13:38.580] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 20:13:53.061] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 20:13:55.102] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 20:15:49.397] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 20:15:51.436] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 20:18:21.991] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 20:21:58.481] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 20:38:41.706] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 20:50:36.893] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 20:50:51.697] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 20:51:44.012] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 20:51:48.796] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 20:51:51.276] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 20:51:53.743] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 20:52:06.786] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 20:52:09.359] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 20:52:11.173] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 20:52:19.353] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 20:52:25.447] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 20:52:26.305] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 20:52:38.189] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 21:00:40.019] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 21:01:48.779] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 21:04:22.891] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 21:05:24.828] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 21:05:39.162] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 21:05:49.894] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 21:07:09.539] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 21:09:15.517] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 21:09:54.902] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 21:11:39.781] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 21:11:58.394] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 21:12:01.215] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 21:12:02.748] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 21:12:26.552] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 21:12:28.678] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 21:12:31.352] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 21:12:33.164] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 21:12:48.357] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 21:14:13.160] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 21:14:14.075] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 21:14:16.740] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 21:14:19.712] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 21:15:31.908] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 21:16:14.506] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 21:16:19.191] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 21:16:24.585] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 21:16:35.010] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 21:16:36.813] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 23:18:18.296] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 23:18:21.102] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 23:19:03.839] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 23:19:15.122] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 23:19:21.210] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 23:19:31.539] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 23:19:34.963] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 23:19:37.497] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 23:20:02.632] [INFO] Microscopejs - Article Controller - Connected Show All
+[2014-02-01 23:21:10.812] [INFO] Microscopejs - Index Controller - Show Index Page
+[2014-02-01 23:21:12.443] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 23:21:16.537] [INFO] Microscopejs - Article Controller - Show All
+[2014-02-01 23:21:23.930] [INFO] Microscopejs - Article Controller - Show All

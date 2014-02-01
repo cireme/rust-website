@@ -1,13 +1,9 @@
-<h2 class="text-info">Details</h2>
+<h2 class="text-info"><%- article.title %></h2>
 <fieldset>
-    <legend>article</legend>
-
+    <legend>Posted on : <%- article.date %></legend>
 	
-		<label for="title">title:</label>
-		<p><%- article.title %></p>
-	
-		<label for="text">text:</label>
 		<p><%- article.text %></p>
+
 </fieldset>
 
 <%- link_to('back to list', '/articles', {class : 'btn btn-primary'}) %>

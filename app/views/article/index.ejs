@@ -1,14 +1,14 @@
-<h2 class="muted">Index</h2>
+<h2 class="muted">GhostRusters' News</h2>
 
 <table class="table table-striped">
     <thead>
         <tr>
             
-            <td>title</td>
+            <td>Title</td>
             
-            <td>text</td>
+            <td>Publication Date</td>
             
-            <td>action</td>
+            <td></td>
         </tr>
     </thead>
     <tbody>
@@ -18,7 +18,7 @@
             
             <td><%- article.title %></td>
             
-            <td><%- article.text %></td>
+            <td><%- article.date %></td>
             
             <td>
                 <%- link_to('show', '/article/show/'+article.id, {class : 'btn btn-info'}) %>

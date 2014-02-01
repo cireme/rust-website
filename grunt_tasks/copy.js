@@ -2,6 +2,7 @@ module.exports = {
 	vendors: {
 		files: [
 			{expand: true, cwd: '<%= config.bower %>/bootstrap/dist/fonts/', src: ['**'], dest: '<%= config.public %>/fonts/'},
+			{expand: true, cwd: '<%= config.bower %>/ckeditor/', src: ['**'], dest: '<%= config.public %>/scripts/vendors/ckeditor/'},
 			{src: '<%= config.bower %>/bootstrap/dist/css/bootstrap.css', dest: '<%= config.public %>/styles/bootstrap.css'},
 			{src: '<%= config.bower %>/bootstrap/dist/js/bootstrap.js', dest: '<%= config.public %>/scripts/vendors/bootstrap.js'},
 			{src: '<%= config.bower %>/jquery/jquery.js', dest: '<%= config.public %>/scripts/vendors/jquery.js'},
@@ -11,6 +12,7 @@ module.exports = {
 	release:{
 		files: [
 			{expand: true, cwd: '<%= config.bower %>/bootstrap/dist/fonts/', src: ['**'], dest: '<%= config.public %>/fonts/'},
+			{expand: true, cwd: '<%= config.bower %>/ckeditor/', src: ['**'], dest: '<%= config.public %>/scripts/vendors/ckeditor/'},
 			{src: '<%= config.bower %>/bootstrap/dist/css/bootstrap.min.css', dest: '<%= config.public %>/styles/bootstrap.css'},
 			{src: '<%= config.bower %>/bootstrap/dist/js/bootstrap.min.js', dest: '<%= config.public %>/scripts/vendors/bootstrap.js'},
 			{src: '<%= config.bower %>/jquery/jquery.min.js', dest: '<%= config.public %>/scripts/vendors/jquery.js'},

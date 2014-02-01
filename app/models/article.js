@@ -6,6 +6,8 @@ module.exports = function (db, DataTypes) {
 				title: DataTypes.STRING,
 			
 				text: DataTypes.TEXT,
+
+				createdAt: DataTypes.DATE
 			
 		
 	});

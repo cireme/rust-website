@@ -4,6 +4,7 @@
 * Module dependencies.
 */
 var ArticleDAL = require('../dal/articleDAL');
+var ArticleConverter = require('../converters/articleConverter');
 var MembershipFilters = require('../../middleware/membershipFilters');
 var logger      = require('../../configs/logger.js');
 
@@ -52,6 +53,8 @@ var logger      = require('../../configs/logger.js');
     ArticleController.prototype.index = function(req, res) {
         logger.LOG.info("Article Controller - Show All");
         articleDAL.getAll(function (articles) {
+            articles = ArticleConverter.addFormatedDates(articles);
+
             res.render('article/index', { 'articles': articles });
         });
     };
@@ -65,6 +68,8 @@ var logger      = require('../../configs/logger.js');
     ArticleController.prototype.indexConnected = function(req, res) {
         logger.LOG.info("Article Controller - Connected Show All");
         articleDAL.getAll(function (articles) {
+            articles = ArticleConverter.addFormatedDates(articles);
+
             res.render('article/indexConnected', { 'articles': articles });
         });
     };
@@ -78,6 +83,8 @@ var logger      = require('../../configs/logger.js');
     ArticleController.prototype.show = function(req, res) {
         var articleId = req.params.id;
         articleDAL.get(articleId, function (article) {
+            articles = ArticleConverter.addFormatedDate(article);
+
             res.render('article/show', { 'article': article });
         });
     };
@@ -91,6 +98,8 @@ var logger      = require('../../configs/logger.js');
     ArticleController.prototype.showConnected = function(req, res) {
         var articleId = req.params.id;
         articleDAL.get(articleId, function (article) {
+            articles = ArticleConverter.addFormatedDate(article);
+            
             res.render('article/showConnected', { 'article': article });
         });
     };
@@ -104,6 +113,8 @@ var logger      = require('../../configs/logger.js');
     ArticleController.prototype.edit = function(req, res) {
         var articleId = req.params.id;
         articleDAL.get(articleId, function (article) {
+            articles = ArticleConverter.addFormatedDate(article);
+            
             res.render('article/edit', { 'article': article });
         });
     };
@@ -117,14 +128,10 @@ var logger      = require('../../configs/logger.js');
     ArticleController.prototype.update = function(req, res) {
         var article = req.body.article;
         
-        
-        
-        
-        
         articleDAL.get(article.id, function(entity){
             if(entity){
                 articleDAL.update(entity, article, function (article) {
-                    res.redirect('/article');
+                    res.redirect('/account/articles');
                 });
             }
             else{
@@ -150,14 +157,10 @@ var logger      = require('../../configs/logger.js');
     * @param {res} http response.
     */
     ArticleController.prototype.create = function(req, res) {
-        var article = req.body.article;
-        
-        
-        
-        
+        var article = req.body.article;        
         
         articleDAL.save(article, function (data) {
-            res.redirect('/article');
+            res.redirect('/account/articles');
         });
     };
 
@@ -183,7 +186,7 @@ var logger      = require('../../configs/logger.js');
     ArticleController.prototype.destroy = function(req, res) {
         var article = req.body.article;
         articleDAL.remove(article.id, function (data) {
-            res.redirect('/article');
+            res.redirect('/account/articles');
         });
     };
 

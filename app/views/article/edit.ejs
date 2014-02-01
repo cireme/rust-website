@@ -12,7 +12,7 @@
   
     <div class="control-group">
       <%- f.label_for("text", {class : "control-label"}) %>
-      <%- f.text_area("text", {class: "form-control"}) %>
+      <%- f.text_area("text", {id:"text"}) %>
     </div>
   
 
@@ -20,3 +20,10 @@
 <% }) %>
 
 <%- link_to('back to list', '/account/articles', {class : 'btn btn-primary'}) %>
+
+<script type="text/javascript" src="/scripts/vendors/ckeditor/ckeditor.js"> </script>
+<script type="text/javascript" src="/scripts/vendors/ckeditor/config.js"> </script>
+<script type="text/javascript" src="/scripts/vendors/ckeditor/styles.js"> </script>
+<script type="text/javascript">
+  CKEDITOR.replace('text');
+</script>

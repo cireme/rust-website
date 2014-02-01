@@ -20,6 +20,7 @@
     "bootstrap": "~3.0.0",
     "angular": "~1.0.8",
     "requirejs": "~2.1.8",
-    "toastr": "~2.0.1"
+    "toastr": "~2.0.1",
+    "ckeditor": "#stable/full"
   }
 }
